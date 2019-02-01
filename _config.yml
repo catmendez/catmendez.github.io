@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Cat Mendez
-description: Front-end Web Developer/Design
+title: "Cat Mendez"
+description: "Front-end Web Developer/Design"
 owner:
   name: Catherine Mendez # or company name
   url: "https://catmendez.com" # your URL
@@ -28,9 +28,9 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome to my personal portfolio
-  text: My name is Catherine Mendez but you can call me Cat for short. I am a senior computer science
-  major at the University of Rhode Island and currently looking for frontend web development opportunities.
+  title: "Welcome to my personal portfolio"
+  text: "My name is Catherine Mendez but you can call me Cat for short. I am a senior computer science
+  major at the University of Rhode Island and currently looking for frontend web development opportunities."
 # - displayed at the bottom
 closing-head: Thank you for visiting!
 closing-para: Please feel free to contact me and have a lovely day!
